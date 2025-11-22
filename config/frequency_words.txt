@@ -13,25 +13,19 @@ Microsoft
 
 英伟达
 NVIDIA
-黄仁勋
 
 AMD
 
 谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
-sora
 
 ai
 !gai
 人工智能
-
-
-机器人
 
 国产
 中国
