@@ -2,6 +2,12 @@
 steam
 epic
 
+A股
+B股
+H股
++涨跌
+!预测
+
 微软
 Microsoft
 
